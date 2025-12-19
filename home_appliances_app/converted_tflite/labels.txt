@@ -1,0 +1,10 @@
+0 Laptop
+1 Television
+2 Electric Stand Fan
+3 Emergency Lights
+4 Refrigerator
+5 Personal Computer
+6 Blender
+7 Printer
+8 Speaker
+9 Microwave
