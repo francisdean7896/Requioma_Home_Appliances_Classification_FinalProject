@@ -1,7 +1,7 @@
 # Hello! 👋 I'm Francis Dean Requioma
 ### I am a BSIT Student of Caraga State University - Cabadbaran Campus
 
-🌱 Current learning and working on small projects that is related to Web Development, Machine Learning, and Application Development using Flutter and Dart. 
+🌱 Current learning and working on small projects that is related to Web Development, Machine Learning, Databases, and Application Development using Flutter and Dart. 
 
 ---
 
