@@ -44,3 +44,5 @@ A Flutter mobile app that classifies photos of home appliances using a TensorFlo
   <img src="https://github.com/user-attachments/assets/3ead698d-5c7f-4ec3-a990-32054ffd658c" width="180"/>
 </p>
 
+
+---
